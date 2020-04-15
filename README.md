@@ -5,3 +5,5 @@ This used to be a private repository since the plugin was being sold but as Mine
 
 Here is the documentation for setting up new worlds using the plugin: 
 https://www.spigotmc.org/wiki/arathi-basin-world-tutorial/
+
+一款模仿魔兽阿拉希战场的插件。。源码
